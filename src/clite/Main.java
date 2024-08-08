@@ -4,19 +4,7 @@
 
 package clite;
 
-// Jamie Leviner
-// I didn't get finished with Semantics so newton.cpp
-// throws an error.
-
-/*
- * EMPLOYER DISCLAIMER:
- *     This project is still incomplete.  Out of a class with
- *     7 students, only one student completed more than me.  
- *     This is one of the most difficult assignments given to 
- *     the students in our curriculum.  The instructor means 
- *     for it to be a gauntlet, a challenge for his students.
- *     It is rare that any students complete the assignment. 
- */
+// Semantics is still unfinished so newton.cpp throws an error.
 
 public class Main {
 
